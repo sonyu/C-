@@ -1,0 +1,8 @@
+C:\Users\ERPProject\documents\visual studio 2010\Projects\AssyLineSystem\ObjectTool\bin\Debug\ObjectTool.dll
+C:\Users\ERPProject\documents\visual studio 2010\Projects\AssyLineSystem\ObjectTool\bin\Debug\ObjectTool.pdb
+C:\Users\ERPProject\documents\visual studio 2010\Projects\AssyLineSystem\ObjectTool\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\ERPProject\documents\visual studio 2010\Projects\AssyLineSystem\ObjectTool\obj\x86\Debug\ObjectTool.Properties.Resources.resources
+C:\Users\ERPProject\documents\visual studio 2010\Projects\AssyLineSystem\ObjectTool\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\ERPProject\documents\visual studio 2010\Projects\AssyLineSystem\ObjectTool\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\ERPProject\documents\visual studio 2010\Projects\AssyLineSystem\ObjectTool\obj\x86\Debug\ObjectTool.dll
+C:\Users\ERPProject\documents\visual studio 2010\Projects\AssyLineSystem\ObjectTool\obj\x86\Debug\ObjectTool.pdb

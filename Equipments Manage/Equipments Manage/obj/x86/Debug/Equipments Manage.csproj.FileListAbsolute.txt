@@ -1,0 +1,9 @@
+E:\C#\Equipments Manage\Equipments Manage\bin\Debug\Equipments Manage.exe
+E:\C#\Equipments Manage\Equipments Manage\bin\Debug\Equipments Manage.pdb
+E:\C#\Equipments Manage\Equipments Manage\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\C#\Equipments Manage\Equipments Manage\obj\x86\Debug\Equipments_Manage.Form1.resources
+E:\C#\Equipments Manage\Equipments Manage\obj\x86\Debug\Equipments_Manage.Properties.Resources.resources
+E:\C#\Equipments Manage\Equipments Manage\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\C#\Equipments Manage\Equipments Manage\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\C#\Equipments Manage\Equipments Manage\obj\x86\Debug\Equipments Manage.exe
+E:\C#\Equipments Manage\Equipments Manage\obj\x86\Debug\Equipments Manage.pdb

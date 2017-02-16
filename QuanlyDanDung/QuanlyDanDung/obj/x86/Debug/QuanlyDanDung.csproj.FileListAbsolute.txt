@@ -1,0 +1,9 @@
+E:\C#\QuanlyDanDung\QuanlyDanDung\bin\Debug\QuanlyDanDung.exe
+E:\C#\QuanlyDanDung\QuanlyDanDung\bin\Debug\QuanlyDanDung.pdb
+E:\C#\QuanlyDanDung\QuanlyDanDung\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\C#\QuanlyDanDung\QuanlyDanDung\obj\x86\Debug\QuanlyDanDung.Form1.resources
+E:\C#\QuanlyDanDung\QuanlyDanDung\obj\x86\Debug\QuanlyDanDung.Properties.Resources.resources
+E:\C#\QuanlyDanDung\QuanlyDanDung\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\C#\QuanlyDanDung\QuanlyDanDung\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\C#\QuanlyDanDung\QuanlyDanDung\obj\x86\Debug\QuanlyDanDung.exe
+E:\C#\QuanlyDanDung\QuanlyDanDung\obj\x86\Debug\QuanlyDanDung.pdb

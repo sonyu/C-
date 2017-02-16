@@ -1,0 +1,41 @@
+C:\Users\ERPProject\documents\visual studio 2010\Projects\AssyLineSystem\AssyLineSystem\bin\Debug\AssyLineSystem.pdb
+C:\Users\ERPProject\documents\visual studio 2010\Projects\AssyLineSystem\AssyLineSystem\bin\Debug\ObjectTool.dll
+C:\Users\ERPProject\documents\visual studio 2010\Projects\AssyLineSystem\AssyLineSystem\bin\Debug\ObjectTool.pdb
+C:\Users\ERPProject\documents\visual studio 2010\Projects\AssyLineSystem\AssyLineSystem\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\ERPProject\documents\visual studio 2010\Projects\AssyLineSystem\AssyLineSystem\obj\x86\Debug\AssyLineSystem.frm_Main.resources
+C:\Users\ERPProject\documents\visual studio 2010\Projects\AssyLineSystem\AssyLineSystem\obj\x86\Debug\AssyLineSystem.Properties.Resources.resources
+C:\Users\ERPProject\documents\visual studio 2010\Projects\AssyLineSystem\AssyLineSystem\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\ERPProject\documents\visual studio 2010\Projects\AssyLineSystem\AssyLineSystem\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\ERPProject\documents\visual studio 2010\Projects\AssyLineSystem\AssyLineSystem\obj\x86\Debug\AssyLineSystem.pdb
+C:\Users\ERPProject\documents\visual studio 2010\Projects\AssyLineSystem\AssyLineSystem\obj\x86\Debug\AssyLineSystem.frm_InputData.resources
+C:\Users\ERPProject\documents\visual studio 2010\Projects\AssyLineSystem\AssyLineSystem\obj\x86\Debug\AssyLineSystem.frm_LineConfig.resources
+C:\Users\ERPProject\documents\visual studio 2010\Projects\AssyLineSystem\AssyLineSystem\obj\x86\Debug\AssyLineSystem.frm_MessageWarning.resources
+C:\Users\ERPProject\documents\visual studio 2010\Projects\AssyLineSystem\AssyLineSystem\obj\x86\Debug\GenerateResource.write.2659.tlog
+C:\Users\ERPProject\documents\visual studio 2010\Projects\AssyLineSystem\AssyLineSystem\obj\x86\Debug\AssyLineSystem.frm_Loading.resources
+C:\Users\ERPProject\documents\visual studio 2010\Projects\AssyLineSystem\AssyLineSystem\obj\x86\Debug\AssyLineSystem.frm_Cal.resources
+C:\Users\ERPProject\documents\visual studio 2010\Projects\AssyLineSystem\AssyLineSystem\obj\x86\Debug\AssyLineSystem.frm_EditDeff.resources
+C:\Users\ERPProject\documents\visual studio 2010\Projects\AssyLineSystem\AssyLineSystem\bin\Debug\AssyLineSystem.dll.config
+C:\Users\ERPProject\documents\visual studio 2010\Projects\AssyLineSystem\AssyLineSystem\bin\Debug\AssyLineSystem.dll
+C:\Users\ERPProject\documents\visual studio 2010\Projects\AssyLineSystem\AssyLineSystem\obj\x86\Debug\AssyLineSystem.dll
+C:\Users\ERPProject\documents\visual studio 2010\Projects\AssyLineSystem\AssyLineSystem\bin\Debug\ClosedXML.dll
+C:\Users\ERPProject\documents\visual studio 2010\Projects\AssyLineSystem\AssyLineSystem\bin\Debug\DocumentFormat.OpenXml.dll
+E:\C#\tuan\AssyLineSystem\AssyLineSystem\bin\Debug\AssyLineSystem.dll.config
+E:\C#\tuan\AssyLineSystem\AssyLineSystem\bin\Debug\AssyLineSystem.dll
+E:\C#\tuan\AssyLineSystem\AssyLineSystem\bin\Debug\AssyLineSystem.pdb
+E:\C#\tuan\AssyLineSystem\AssyLineSystem\bin\Debug\ObjectTool.dll
+E:\C#\tuan\AssyLineSystem\AssyLineSystem\bin\Debug\DocumentFormat.OpenXml.dll
+E:\C#\tuan\AssyLineSystem\AssyLineSystem\bin\Debug\ObjectTool.pdb
+E:\C#\tuan\AssyLineSystem\AssyLineSystem\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\C#\tuan\AssyLineSystem\AssyLineSystem\obj\x86\Debug\AssyLineSystem.frm_Cal.resources
+E:\C#\tuan\AssyLineSystem\AssyLineSystem\obj\x86\Debug\AssyLineSystem.frm_EditDeff.resources
+E:\C#\tuan\AssyLineSystem\AssyLineSystem\obj\x86\Debug\AssyLineSystem.frm_InputData.resources
+E:\C#\tuan\AssyLineSystem\AssyLineSystem\obj\x86\Debug\AssyLineSystem.frm_LineConfig.resources
+E:\C#\tuan\AssyLineSystem\AssyLineSystem\obj\x86\Debug\AssyLineSystem.frm_Loading.resources
+E:\C#\tuan\AssyLineSystem\AssyLineSystem\obj\x86\Debug\AssyLineSystem.frm_Main.resources
+E:\C#\tuan\AssyLineSystem\AssyLineSystem\obj\x86\Debug\AssyLineSystem.frm_MessageWarning.resources
+E:\C#\tuan\AssyLineSystem\AssyLineSystem\obj\x86\Debug\AssyLineSystem.Properties.Resources.resources
+E:\C#\tuan\AssyLineSystem\AssyLineSystem\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\C#\tuan\AssyLineSystem\AssyLineSystem\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\C#\tuan\AssyLineSystem\AssyLineSystem\obj\x86\Debug\GenerateResource.write.2659.tlog
+E:\C#\tuan\AssyLineSystem\AssyLineSystem\obj\x86\Debug\AssyLineSystem.dll
+E:\C#\tuan\AssyLineSystem\AssyLineSystem\obj\x86\Debug\AssyLineSystem.pdb

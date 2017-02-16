@@ -1,0 +1,12 @@
+E:\C#\usb hid\UsbApp\bin\Debug\UsbApp.exe
+E:\C#\usb hid\UsbApp\bin\Debug\UsbApp.pdb
+E:\C#\usb hid\UsbApp\bin\Debug\UsbLibrary.dll
+E:\C#\usb hid\UsbApp\bin\Debug\UsbLibrary.pdb
+E:\C#\usb hid\UsbApp\bin\Debug\UsbLibrary.xml
+E:\C#\usb hid\UsbApp\obj\Debug\ResolveAssemblyReference.cache
+E:\C#\usb hid\UsbApp\obj\Debug\UsbApp.Properties.Resources.resources
+E:\C#\usb hid\UsbApp\obj\Debug\UsbApp.Sniffer.resources
+E:\C#\usb hid\UsbApp\obj\Debug\ResGen.read.1.tlog
+E:\C#\usb hid\UsbApp\obj\Debug\ResGen.write.1.tlog
+E:\C#\usb hid\UsbApp\obj\Debug\UsbApp.exe
+E:\C#\usb hid\UsbApp\obj\Debug\UsbApp.pdb

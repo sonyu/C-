@@ -1,0 +1,5 @@
+E:\C#\firstweb\firstweb\bin\Debug\firstweb.dll
+E:\C#\firstweb\firstweb\bin\Debug\firstweb.pdb
+E:\C#\firstweb\firstweb\obj\Debug\ResolveAssemblyReference.cache
+E:\C#\firstweb\firstweb\obj\Debug\firstweb.dll
+E:\C#\firstweb\firstweb\obj\Debug\firstweb.pdb

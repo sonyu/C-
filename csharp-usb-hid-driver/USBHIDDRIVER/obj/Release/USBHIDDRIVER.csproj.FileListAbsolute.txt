@@ -1,0 +1,7 @@
+E:\C#\csharp-usb-hid-driver\USBHIDDRIVER\bin\Release\USBHIDDRIVER.XML
+E:\C#\csharp-usb-hid-driver\USBHIDDRIVER\bin\Release\USBHIDDRIVER.dll
+E:\C#\csharp-usb-hid-driver\USBHIDDRIVER\bin\Release\USBHIDDRIVER.pdb
+E:\C#\csharp-usb-hid-driver\USBHIDDRIVER\bin\Release\nunit.framework.xml
+E:\C#\csharp-usb-hid-driver\USBHIDDRIVER\obj\Release\ResolveAssemblyReference.cache
+E:\C#\csharp-usb-hid-driver\USBHIDDRIVER\obj\Release\USBHIDDRIVER.dll
+E:\C#\csharp-usb-hid-driver\USBHIDDRIVER\obj\Release\USBHIDDRIVER.pdb

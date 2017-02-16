@@ -1,0 +1,12 @@
+E:\C#\Manage_AssyLine\Manage_AssyLine\bin\Debug\Manage_AssyLine.exe
+E:\C#\Manage_AssyLine\Manage_AssyLine\bin\Debug\Manage_AssyLine.pdb
+E:\C#\Manage_AssyLine\Manage_AssyLine\obj\x86\Debug\Manage_AssyLine.Properties.Resources.resources
+E:\C#\Manage_AssyLine\Manage_AssyLine\obj\x86\Debug\Manage_AssyLine.exe
+E:\C#\Manage_AssyLine\Manage_AssyLine\obj\x86\Debug\Manage_AssyLine.pdb
+E:\C#\Manage_AssyLine\Manage_AssyLine\obj\x86\Debug\Manage_AssyLine.main_form.resources
+E:\C#\Manage_AssyLine\Manage_AssyLine\obj\x86\Debug\Manage_AssyLine.csprojResolveAssemblyReference.cache
+E:\C#\Manage_AssyLine\Manage_AssyLine\obj\x86\Debug\Manage_AssyLine.csproj.GenerateResource.Cache
+E:\C#\Manage_AssyLine\Manage_AssyLine\obj\x86\Debug\Manage_AssyLine.pop_form.resources
+E:\C#\Manage_AssyLine\Manage_AssyLine\bin\Debug\Manage_AssyLine.exe.config
+E:\C#\Manage_AssyLine\Manage_AssyLine\obj\x86\Debug\Manage_AssyLine.Form3.resources
+E:\C#\Manage_AssyLine\Manage_AssyLine\obj\x86\Debug\Manage_AssyLine.MForm.resources

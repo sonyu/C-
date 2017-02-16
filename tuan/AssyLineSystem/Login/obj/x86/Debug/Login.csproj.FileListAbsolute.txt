@@ -1,0 +1,30 @@
+C:\Users\ERPProject\documents\visual studio 2010\Projects\AssyLineSystem\Login\bin\Debug\Login.exe
+C:\Users\ERPProject\documents\visual studio 2010\Projects\AssyLineSystem\Login\bin\Debug\Login.pdb
+C:\Users\ERPProject\documents\visual studio 2010\Projects\AssyLineSystem\Login\bin\Debug\ObjectTool.dll
+C:\Users\ERPProject\documents\visual studio 2010\Projects\AssyLineSystem\Login\bin\Debug\AssyLineSystem.pdb
+C:\Users\ERPProject\documents\visual studio 2010\Projects\AssyLineSystem\Login\bin\Debug\ObjectTool.pdb
+C:\Users\ERPProject\documents\visual studio 2010\Projects\AssyLineSystem\Login\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\ERPProject\documents\visual studio 2010\Projects\AssyLineSystem\Login\obj\x86\Debug\Login.frm_Login.resources
+C:\Users\ERPProject\documents\visual studio 2010\Projects\AssyLineSystem\Login\obj\x86\Debug\Login.Properties.Resources.resources
+C:\Users\ERPProject\documents\visual studio 2010\Projects\AssyLineSystem\Login\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\ERPProject\documents\visual studio 2010\Projects\AssyLineSystem\Login\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\ERPProject\documents\visual studio 2010\Projects\AssyLineSystem\Login\obj\x86\Debug\Login.exe
+C:\Users\ERPProject\documents\visual studio 2010\Projects\AssyLineSystem\Login\obj\x86\Debug\Login.pdb
+C:\Users\ERPProject\documents\visual studio 2010\Projects\AssyLineSystem\Login\bin\Debug\AssyLineSystem.dll
+C:\Users\ERPProject\documents\visual studio 2010\Projects\AssyLineSystem\Login\bin\Debug\ClosedXML.dll
+C:\Users\ERPProject\documents\visual studio 2010\Projects\AssyLineSystem\Login\bin\Debug\DocumentFormat.OpenXml.dll
+E:\C#\tuan\AssyLineSystem\Login\obj\x86\Debug\Login.exe
+E:\C#\tuan\AssyLineSystem\Login\obj\x86\Debug\Login.pdb
+E:\C#\tuan\AssyLineSystem\Login\bin\Debug\Login.exe
+E:\C#\tuan\AssyLineSystem\Login\bin\Debug\Login.pdb
+E:\C#\tuan\AssyLineSystem\Login\bin\Debug\AssyLineSystem.dll
+E:\C#\tuan\AssyLineSystem\Login\bin\Debug\ObjectTool.dll
+E:\C#\tuan\AssyLineSystem\Login\bin\Debug\ClosedXML.dll
+E:\C#\tuan\AssyLineSystem\Login\bin\Debug\DocumentFormat.OpenXml.dll
+E:\C#\tuan\AssyLineSystem\Login\bin\Debug\AssyLineSystem.pdb
+E:\C#\tuan\AssyLineSystem\Login\bin\Debug\ObjectTool.pdb
+E:\C#\tuan\AssyLineSystem\Login\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\C#\tuan\AssyLineSystem\Login\obj\x86\Debug\Login.frm_Login.resources
+E:\C#\tuan\AssyLineSystem\Login\obj\x86\Debug\Login.Properties.Resources.resources
+E:\C#\tuan\AssyLineSystem\Login\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\C#\tuan\AssyLineSystem\Login\obj\x86\Debug\GenerateResource.write.1.tlog

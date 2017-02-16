@@ -1,0 +1,163 @@
+﻿Installing assembly 'C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\SeraWorld\SeraWorld\bin\Debug\SeraWorld.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\SeraWorld\SeraWorld\bin\Debug\SeraWorld.exe
+   logfile = C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\SeraWorld\SeraWorld\bin\Debug\SeraWorld.InstallLog
+Rolling back assembly 'C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\SeraWorld\SeraWorld\bin\Debug\SeraWorld.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\SeraWorld\SeraWorld\bin\Debug\SeraWorld.exe
+   logfile = C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\SeraWorld\SeraWorld\bin\Debug\SeraWorld.InstallLog
+Uninstalling assembly 'C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\SeraWorld\SeraWorld\bin\Debug\SeraWorld.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\SeraWorld\SeraWorld\bin\Debug\SeraWorld.exe
+   logfile = C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\SeraWorld\SeraWorld\bin\Debug\SeraWorld.InstallLog
+Removing EventLog source SeraMailer.
+Warning: The source SeraMailer is not registered on the local machine.
+Service SeraMailer is being removed from the system...
+An exception occurred during the uninstallation of the System.ServiceProcess.ServiceInstaller installer.
+System.ComponentModel.Win32Exception: The specified service does not exist as an installed service
+An exception occurred while uninstalling. This exception will be ignored and the uninstall will continue. However, the application might not be fully uninstalled after the uninstall is complete.
+Installing assembly 'C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\SeraWorld\SeraWorld\bin\Debug\SeraWorld.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\SeraWorld\SeraWorld\bin\Debug\SeraWorld.exe
+   logfile = C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\SeraWorld\SeraWorld\bin\Debug\SeraWorld.InstallLog
+Rolling back assembly 'C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\SeraWorld\SeraWorld\bin\Debug\SeraWorld.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\SeraWorld\SeraWorld\bin\Debug\SeraWorld.exe
+   logfile = C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\SeraWorld\SeraWorld\bin\Debug\SeraWorld.InstallLog
+Installing assembly 'C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\SeraWorld\SeraWorld\bin\Debug\SeraWorld.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\SeraWorld\SeraWorld\bin\Debug\SeraWorld.exe
+   logfile = C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\SeraWorld\SeraWorld\bin\Debug\SeraWorld.InstallLog
+Installing service SeraMailer...
+Creating EventLog source SeraMailer in log Application...
+Rolling back assembly 'C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\SeraWorld\SeraWorld\bin\Debug\SeraWorld.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\SeraWorld\SeraWorld\bin\Debug\SeraWorld.exe
+   logfile = C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\SeraWorld\SeraWorld\bin\Debug\SeraWorld.InstallLog
+Restoring event log to previous state for source SeraMailer.
+Installing assembly 'C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\SeraWorld\SeraWorld\bin\Debug\SeraWorld.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\SeraWorld\SeraWorld\bin\Debug\SeraWorld.exe
+   logfile = C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\SeraWorld\SeraWorld\bin\Debug\SeraWorld.InstallLog
+Rolling back assembly 'C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\SeraWorld\SeraWorld\bin\Debug\SeraWorld.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\SeraWorld\SeraWorld\bin\Debug\SeraWorld.exe
+   logfile = C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\SeraWorld\SeraWorld\bin\Debug\SeraWorld.InstallLog
+Uninstalling assembly 'E:\C#\SeraWorld\SeraWorld\bin\Debug\SeraWorld.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = E:\C#\SeraWorld\SeraWorld\bin\Debug\SeraWorld.exe
+   logfile = E:\C#\SeraWorld\SeraWorld\bin\Debug\SeraWorld.InstallLog
+Removing EventLog source SeraMailer.
+Service SeraMailer is being removed from the system...
+An exception occurred during the uninstallation of the System.ServiceProcess.ServiceInstaller installer.
+System.ComponentModel.Win32Exception: The specified service does not exist as an installed service
+An exception occurred while uninstalling. This exception will be ignored and the uninstall will continue. However, the application might not be fully uninstalled after the uninstall is complete.
+Installing assembly 'E:\C#\SeraWorld\SeraWorld\bin\Debug\SeraWorld.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = E:\C#\SeraWorld\SeraWorld\bin\Debug\SeraWorld.exe
+   logfile = E:\C#\SeraWorld\SeraWorld\bin\Debug\SeraWorld.InstallLog
+Installing service SeraMailer...
+Service SeraMailer has been successfully installed.
+Creating EventLog source SeraMailer in log Application...
+Committing assembly 'E:\C#\SeraWorld\SeraWorld\bin\Debug\SeraWorld.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = E:\C#\SeraWorld\SeraWorld\bin\Debug\SeraWorld.exe
+   logfile = E:\C#\SeraWorld\SeraWorld\bin\Debug\SeraWorld.InstallLog
+Uninstalling assembly 'E:\C#\SeraWorld\SeraWorld\bin\Debug\SeraWorld.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = E:\C#\SeraWorld\SeraWorld\bin\Debug\SeraWorld.exe
+   logfile = E:\C#\SeraWorld\SeraWorld\bin\Debug\SeraWorld.InstallLog
+Removing EventLog source SeraMailer.
+Service SeraMailer is being removed from the system...
+Service SeraMailer was successfully removed from the system.
+Installing assembly 'E:\C#\SeraWorld\SeraWorld\bin\Debug\SeraWorld.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = E:\C#\SeraWorld\SeraWorld\bin\Debug\SeraWorld.exe
+   logfile = E:\C#\SeraWorld\SeraWorld\bin\Debug\SeraWorld.InstallLog
+Installing service SeraMailer...
+Service SeraMailer has been successfully installed.
+Creating EventLog source SeraMailer in log Application...
+Committing assembly 'E:\C#\SeraWorld\SeraWorld\bin\Debug\SeraWorld.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = E:\C#\SeraWorld\SeraWorld\bin\Debug\SeraWorld.exe
+   logfile = E:\C#\SeraWorld\SeraWorld\bin\Debug\SeraWorld.InstallLog
+Uninstalling assembly 'E:\C#\SeraWorld\SeraWorld\bin\Debug\SeraWorld.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = E:\C#\SeraWorld\SeraWorld\bin\Debug\SeraWorld.exe
+   logfile = E:\C#\SeraWorld\SeraWorld\bin\Debug\SeraWorld.InstallLog
+Removing EventLog source SeraMailer.
+Service SeraMailer is being removed from the system...
+Service SeraMailer was successfully removed from the system.
+Attempt to stop service SeraMailer.
+Installing assembly 'E:\C#\SeraWorld\SeraWorld\bin\Debug\SeraWorld.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = E:\C#\SeraWorld\SeraWorld\bin\Debug\SeraWorld.exe
+   logfile = E:\C#\SeraWorld\SeraWorld\bin\Debug\SeraWorld.InstallLog
+Installing service SeraMailer...
+Service SeraMailer has been successfully installed.
+Creating EventLog source SeraMailer in log Application...
+Committing assembly 'E:\C#\SeraWorld\SeraWorld\bin\Debug\SeraWorld.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = E:\C#\SeraWorld\SeraWorld\bin\Debug\SeraWorld.exe
+   logfile = E:\C#\SeraWorld\SeraWorld\bin\Debug\SeraWorld.InstallLog
+Uninstalling assembly 'E:\C#\SeraWorld\SeraWorld\bin\Debug\SeraWorld.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = E:\C#\SeraWorld\SeraWorld\bin\Debug\SeraWorld.exe
+   logfile = E:\C#\SeraWorld\SeraWorld\bin\Debug\SeraWorld.InstallLog
+Removing EventLog source SeraMailer.
+Service SeraMailer is being removed from the system...
+Service SeraMailer was successfully removed from the system.
+Attempt to stop service SeraMailer.
+Installing assembly 'E:\C#\SeraWorld\SeraWorld\bin\Debug\SeraWorld.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = E:\C#\SeraWorld\SeraWorld\bin\Debug\SeraWorld.exe
+   logfile = E:\C#\SeraWorld\SeraWorld\bin\Debug\SeraWorld.InstallLog
+Installing service SeraMailer...
+Service SeraMailer has been successfully installed.
+Creating EventLog source SeraMailer in log Application...
+Committing assembly 'E:\C#\SeraWorld\SeraWorld\bin\Debug\SeraWorld.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = E:\C#\SeraWorld\SeraWorld\bin\Debug\SeraWorld.exe
+   logfile = E:\C#\SeraWorld\SeraWorld\bin\Debug\SeraWorld.InstallLog
+Uninstalling assembly 'E:\C#\SeraWorld\SeraWorld\bin\Debug\SeraWorld.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = E:\C#\SeraWorld\SeraWorld\bin\Debug\SeraWorld.exe
+   logfile = E:\C#\SeraWorld\SeraWorld\bin\Debug\SeraWorld.InstallLog
+Removing EventLog source SeraMailer.
+Service SeraMailer is being removed from the system...
+Service SeraMailer was successfully removed from the system.
+Installing assembly 'E:\C#\SeraWorld\SeraWorld\bin\Debug\SeraWorld.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = E:\C#\SeraWorld\SeraWorld\bin\Debug\SeraWorld.exe
+   logfile = E:\C#\SeraWorld\SeraWorld\bin\Debug\SeraWorld.InstallLog
+Installing service SeraMailer...
+Service SeraMailer has been successfully installed.
+Creating EventLog source SeraMailer in log Application...
+Committing assembly 'E:\C#\SeraWorld\SeraWorld\bin\Debug\SeraWorld.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = E:\C#\SeraWorld\SeraWorld\bin\Debug\SeraWorld.exe
+   logfile = E:\C#\SeraWorld\SeraWorld\bin\Debug\SeraWorld.InstallLog

@@ -1,0 +1,11 @@
+E:\C#\CSV_import_export\CSV_import_export\bin\Debug\CSV_import_export.exe
+E:\C#\CSV_import_export\CSV_import_export\bin\Debug\CSV_import_export.pdb
+E:\C#\CSV_import_export\CSV_import_export\obj\Debug\ResolveAssemblyReference.cache
+E:\C#\CSV_import_export\CSV_import_export\obj\Debug\CSV_import_export.frmExport.resources
+E:\C#\CSV_import_export\CSV_import_export\obj\Debug\CSV_import_export.frmImport.resources
+E:\C#\CSV_import_export\CSV_import_export\obj\Debug\CSV_import_export.frmMain.resources
+E:\C#\CSV_import_export\CSV_import_export\obj\Debug\CSV_import_export.Properties.Resources.resources
+E:\C#\CSV_import_export\CSV_import_export\obj\Debug\ResGen.read.1.tlog
+E:\C#\CSV_import_export\CSV_import_export\obj\Debug\ResGen.write.1.tlog
+E:\C#\CSV_import_export\CSV_import_export\obj\Debug\CSV_import_export.exe
+E:\C#\CSV_import_export\CSV_import_export\obj\Debug\CSV_import_export.pdb

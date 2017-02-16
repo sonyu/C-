@@ -1,0 +1,5 @@
+E:\C#\ServerControl1\ServerControl1\bin\Debug\ServerControl1.dll
+E:\C#\ServerControl1\ServerControl1\bin\Debug\ServerControl1.pdb
+E:\C#\ServerControl1\ServerControl1\obj\Debug\ResolveAssemblyReference.cache
+E:\C#\ServerControl1\ServerControl1\obj\Debug\ServerControl1.dll
+E:\C#\ServerControl1\ServerControl1\obj\Debug\ServerControl1.pdb

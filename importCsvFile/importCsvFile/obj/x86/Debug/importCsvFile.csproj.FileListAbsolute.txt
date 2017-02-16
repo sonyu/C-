@@ -1,0 +1,10 @@
+E:\C#\importCsvFile\importCsvFile\bin\Debug\importCsvFile.exe
+E:\C#\importCsvFile\importCsvFile\bin\Debug\importCsvFile.pdb
+E:\C#\importCsvFile\importCsvFile\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\C#\importCsvFile\importCsvFile\obj\x86\Debug\importCsvFile.csproj.ResolveComReference.cache
+E:\C#\importCsvFile\importCsvFile\obj\x86\Debug\importCsvFile.Form1.resources
+E:\C#\importCsvFile\importCsvFile\obj\x86\Debug\importCsvFile.Properties.Resources.resources
+E:\C#\importCsvFile\importCsvFile\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\C#\importCsvFile\importCsvFile\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\C#\importCsvFile\importCsvFile\obj\x86\Debug\importCsvFile.exe
+E:\C#\importCsvFile\importCsvFile\obj\x86\Debug\importCsvFile.pdb

@@ -1,0 +1,10 @@
+E:\C#\BasicGirdView\BasicGirdView\bin\Debug\BasicGirdView.exe
+E:\C#\BasicGirdView\BasicGirdView\bin\Debug\BasicGirdView.pdb
+E:\C#\BasicGirdView\BasicGirdView\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\C#\BasicGirdView\BasicGirdView\obj\x86\Debug\BasicGirdView.Form1.resources
+E:\C#\BasicGirdView\BasicGirdView\obj\x86\Debug\BasicGirdView.Properties.Resources.resources
+E:\C#\BasicGirdView\BasicGirdView\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\C#\BasicGirdView\BasicGirdView\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\C#\BasicGirdView\BasicGirdView\obj\x86\Debug\BasicGirdView.exe
+E:\C#\BasicGirdView\BasicGirdView\obj\x86\Debug\BasicGirdView.pdb
+E:\C#\BasicGirdView\BasicGirdView\obj\x86\Debug\BasicGirdView.searchF.resources

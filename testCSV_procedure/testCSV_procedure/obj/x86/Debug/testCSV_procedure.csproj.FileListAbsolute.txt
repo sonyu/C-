@@ -1,0 +1,9 @@
+E:\C#\testCSV_procedure\testCSV_procedure\bin\Debug\testCSV_procedure.exe
+E:\C#\testCSV_procedure\testCSV_procedure\bin\Debug\testCSV_procedure.pdb
+E:\C#\testCSV_procedure\testCSV_procedure\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\C#\testCSV_procedure\testCSV_procedure\obj\x86\Debug\testCSV_procedure.Form1.resources
+E:\C#\testCSV_procedure\testCSV_procedure\obj\x86\Debug\testCSV_procedure.Properties.Resources.resources
+E:\C#\testCSV_procedure\testCSV_procedure\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\C#\testCSV_procedure\testCSV_procedure\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\C#\testCSV_procedure\testCSV_procedure\obj\x86\Debug\testCSV_procedure.exe
+E:\C#\testCSV_procedure\testCSV_procedure\obj\x86\Debug\testCSV_procedure.pdb

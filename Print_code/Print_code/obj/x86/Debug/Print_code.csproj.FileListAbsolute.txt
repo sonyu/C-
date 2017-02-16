@@ -1,0 +1,13 @@
+E:\C#\Print_code\Print_code\bin\Debug\Print_code.exe
+E:\C#\Print_code\Print_code\bin\Debug\Print_code.pdb
+E:\C#\Print_code\Print_code\obj\x86\Debug\Print_code.Form1.resources
+E:\C#\Print_code\Print_code\obj\x86\Debug\Print_code.Properties.Resources.resources
+E:\C#\Print_code\Print_code\obj\x86\Debug\Print_code.csproj.GenerateResource.Cache
+E:\C#\Print_code\Print_code\obj\x86\Debug\Print_code.exe
+E:\C#\Print_code\Print_code\obj\x86\Debug\Print_code.pdb
+E:\C#\Print_code\Print_code\obj\x86\Debug\Print_code.csprojResolveAssemblyReference.cache
+E:\C#\Print_code\Print_code\bin\Debug\Print_code.exe.config
+E:\C#\Print_code\Print_code\obj\x86\Debug\Print_code.reportForm.resources
+E:\C#\Print_code\Print_code\obj\x86\Debug\RdlCompile.cache
+E:\C#\Print_code\Print_code\obj\x86\Debug\RdlCompile.compiled
+E:\C#\Print_code\Print_code\obj\x86\Debug\Print_code.csproj.ResolveComReference.cache

@@ -1,0 +1,23 @@
+﻿Build started 8/18/2016 10:29:46 AM.
+     1>Project "E:\C#\test\test\test.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Touching "Debug\test.unsuccessfulbuild".
+       ClCompile:
+         All outputs are up-to-date.
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Debug\test.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt test.cpp
+         test.cpp
+     1>e:\c#\test\test\test.cpp(3): warning C4627: '#include <conio.h>': skipped when looking for precompiled header use
+                 Add directive to 'StdAfx.h' or rebuild precompiled header
+     1>e:\c#\test\test\test.cpp(4): warning C4627: '#include <iostream>': skipped when looking for precompiled header use
+                 Add directive to 'StdAfx.h' or rebuild precompiled header
+     1>e:\c#\test\test\test.cpp(6): error C2039: 'cout' : is not a member of 'std'
+     1>e:\c#\test\test\test.cpp(6): error C2873: 'cout' : symbol cannot be used in a using-declaration
+     1>e:\c#\test\test\test.cpp(7): error C2039: 'endl' : is not a member of 'std'
+     1>e:\c#\test\test\test.cpp(7): error C2873: 'endl' : symbol cannot be used in a using-declaration
+     1>e:\c#\test\test\test.cpp(13): error C2065: 'cout' : undeclared identifier
+     1>e:\c#\test\test\test.cpp(13): error C2065: 'endl' : undeclared identifier
+     1>Done Building Project "E:\C#\test\test\test.vcxproj" (build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:00.10

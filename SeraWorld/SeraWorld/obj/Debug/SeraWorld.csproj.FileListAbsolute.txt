@@ -1,0 +1,9 @@
+E:\C#\SeraWorld\SeraWorld\bin\Debug\SeraWorld.exe
+E:\C#\SeraWorld\SeraWorld\bin\Debug\SeraWorld.pdb
+E:\C#\SeraWorld\SeraWorld\obj\Debug\ResolveAssemblyReference.cache
+E:\C#\SeraWorld\SeraWorld\obj\Debug\SeraWorld.ProjectInstaller.resources
+E:\C#\SeraWorld\SeraWorld\obj\Debug\SeraWorld.SeraMailer.resources
+E:\C#\SeraWorld\SeraWorld\obj\Debug\ResGen.read.1.tlog
+E:\C#\SeraWorld\SeraWorld\obj\Debug\ResGen.write.1.tlog
+E:\C#\SeraWorld\SeraWorld\obj\Debug\SeraWorld.exe
+E:\C#\SeraWorld\SeraWorld\obj\Debug\SeraWorld.pdb

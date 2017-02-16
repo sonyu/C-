@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="HID USB DRIVER">
+</Property><Property Name="Solution File" Value="E:\C#\csharp-usb-hid-driver\HID USB DRIVER.sln">
+</Property><Property Name="User Options File" Value="E:\C#\csharp-usb-hid-driver\HID USB DRIVER.suo">
+</Property><Property Name="Date" Value="Friday, June 24, 2016">
+</Property><Property Name="Time" Value="9:04 AM">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="HID USB DRIVER.sln" Description="File successfully backed up as E:\C#\csharp-usb-hid-driver\Backup\HID USB DRIVER.sln">
+</Event><Event ErrorLevel="0" Project="" Source="HID USB DRIVER.suo" Description="File successfully backed up as E:\C#\csharp-usb-hid-driver\Backup\HID USB DRIVER.suo">
+</Event><Event ErrorLevel="0" Project="USBHIDDRIVER" Source="USBHIDDRIVER\USBHIDDRIVER.csproj" Description="Project file successfully backed up as E:\C#\csharp-usb-hid-driver\Backup\USBHIDDRIVER\USBHIDDRIVER.csproj">
+</Event><Event ErrorLevel="0" Project="USBHIDDRIVER" Source="USBHIDDRIVER\Interface.cs" Description="File successfully backed up as E:\C#\csharp-usb-hid-driver\Backup\USBHIDDRIVER\Interface.cs">
+</Event><Event ErrorLevel="0" Project="USBHIDDRIVER" Source="USBHIDDRIVER\Properties\AssemblyInfo.cs" Description="File successfully backed up as E:\C#\csharp-usb-hid-driver\Backup\USBHIDDRIVER\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="USBHIDDRIVER" Source="USBHIDDRIVER\TESTS\TestFixture.cs" Description="File successfully backed up as E:\C#\csharp-usb-hid-driver\Backup\USBHIDDRIVER\TESTS\TestFixture.cs">
+</Event><Event ErrorLevel="0" Project="USBHIDDRIVER" Source="USBHIDDRIVER\USB\HidDeclarations.cs" Description="File successfully backed up as E:\C#\csharp-usb-hid-driver\Backup\USBHIDDRIVER\USB\HidDeclarations.cs">
+</Event><Event ErrorLevel="0" Project="USBHIDDRIVER" Source="USBHIDDRIVER\USB\HIDUSBDevice.cs" Description="File successfully backed up as E:\C#\csharp-usb-hid-driver\Backup\USBHIDDRIVER\USB\HIDUSBDevice.cs">
+</Event><Event ErrorLevel="0" Project="USBHIDDRIVER" Source="USBHIDDRIVER\USB\ListWithEvent.cs" Description="File successfully backed up as E:\C#\csharp-usb-hid-driver\Backup\USBHIDDRIVER\USB\ListWithEvent.cs">
+</Event><Event ErrorLevel="0" Project="USBHIDDRIVER" Source="USBHIDDRIVER\USB\USBSharp.cs" Description="File successfully backed up as E:\C#\csharp-usb-hid-driver\Backup\USBHIDDRIVER\USB\USBSharp.cs">
+</Event><Event ErrorLevel="2" Project="USBHIDDRIVER" Source="USBHIDDRIVER\ClassDiagram1.cd" Description="Failed to backup file as E:\C#\csharp-usb-hid-driver\Backup\USBHIDDRIVER\ClassDiagram1.cd">
+</Event><Event ErrorLevel="1" Project="USBHIDDRIVER" Source="USBHIDDRIVER\USBHIDDRIVER.csproj" Description="Your project is targeting .NET Framework 2.0 or 3.0. If your project uses assemblies requiring a newer .NET Framework, your project will fail to build. You can change the .NET Framework version by clicking Properties on the project menu and then selecting a new version in the '.NET Framework' dropdown box. (In Visual Basic, this is located on the Compile tab by clicking the 'Advanced Compiler Options...' button.)">
+</Event><Event ErrorLevel="0" Project="USBHIDDRIVER" Source="USBHIDDRIVER\USBHIDDRIVER.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="USBHIDDRIVER" Source="USBHIDDRIVER\USBHIDDRIVER.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="HID USB DRIVER.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="HID USB DRIVER.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="USBHIDDRIVER" Source="USBHIDDRIVER\USBHIDDRIVER.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>
